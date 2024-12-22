@@ -1,2 +1,6 @@
-# 3vc23cs145
-this is my first repository
+#include<stdio.h>
+void main()
+{
+  printf("c program");
+  getch();
+}
